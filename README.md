@@ -5,7 +5,6 @@
 
 机构设置：
 
-
 <table>
    <tr>
       <td>部门</td>
@@ -30,7 +29,7 @@
       <td></td>
    </tr>
    <tr>
-      <td rowspan="4">调查部门</td>
+      <td rowspan="4">调查&行动部门</td>
       <td>第一科</td>
       <td></td>
       <td></td>
@@ -47,22 +46,6 @@
    </tr>
    <tr>
       <td>第四科</td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td rowspan="3">行动部门</td>
-      <td>第一科</td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>第二科</td>
-      <td></td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>第三科</td>
       <td></td>
       <td></td>
    </tr>
@@ -88,3 +71,4 @@
       <td></td>
    </tr>
 </table>
+
